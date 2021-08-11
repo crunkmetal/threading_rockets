@@ -1,9 +1,4 @@
 
-// Bryan Jeremy
-// CSC275 C/C++ Programming II
-// Assignment: Multi-threading - The Space Race
-// 10AUG21
-
 #include "About.h"
 #include <iostream>
 using namespace std;
